@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "user-admin",
+      "name": "Admin",
+      "email": "ryjcomputer@gmail.com",
+      "password": "$2b$10$b/iy4KWEVfXLpqjzTcS1Xuj19Xs3WFAQhK9.5NEJQdeq.sKYtykoi",
+      "role": "admin",
+      "createdAt": "2025-11-23T18:48:26.338Z"
+    },
+    {
+      "id": "83671070-98f8-450c-878b-845a6d5f8eb1",
+      "name": "Josue",
+      "lastName": "Torres",
+      "birthDate": "2004-04-29",
+      "email": "josuetorresmariluz@gmail.com",
+      "password": "$2b$10$X8Os1ofS472XYSUIkRIP8usLCKQlTOYjGLhw2P5cSGQLo4YtcM2Ce",
+      "role": "user",
+      "createdAt": "2025-11-23T19:42:37.196Z"
+    },
+    {
+      "id": "21f2177d-cf12-40c4-9a68-0ce3159ef821",
+      "name": "Josue",
+      "lastName": "Torres",
+      "birthDate": "2025-11-02",
+      "email": "correosjemplo@gmail.com",
+      "password": "$2b$10$6Hg146UX8m9w3vc4KUXleez.uYCjGzoAfQZVFa0DLzD2HZMBTCApK",
+      "role": "user",
+      "createdAt": "2025-11-23T20:23:37.315Z"
+    },
+    {
+      "id": "c6bd2bd1-755c-465c-a1e2-19a4a559d454",
+      "name": "elagu",
+      "lastName": "agu",
+      "birthDate": "2000-12-23",
+      "email": "rodirigo78@gmail.com",
+      "password": "$2b$10$eCy1rd6zTdamJ2VcCWoQGOabvwev0Q.o0D6pxNXnT8pWN50fBdI7C",
+      "role": "user",
+      "createdAt": "2025-11-23T20:24:42.170Z"
+    }
+  ],
+  "products": [],
+  "orders": []
+}
