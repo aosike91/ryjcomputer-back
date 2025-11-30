@@ -22,7 +22,7 @@ initDB();
 const db = readDB();
 
 // seed admin if missing
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const ADMIN_EMAIL = 'ryjcomputer@gmail.com';
 const ADMIN_PASS = 'QDETWTF43F6634F';
 if (!db.users.find(u => u.email === ADMIN_EMAIL)) {
