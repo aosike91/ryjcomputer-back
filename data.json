@@ -4,41 +4,50 @@
       "id": "user-admin",
       "name": "Admin",
       "email": "ryjcomputer@gmail.com",
-      "password": "$2b$10$b/iy4KWEVfXLpqjzTcS1Xuj19Xs3WFAQhK9.5NEJQdeq.sKYtykoi",
+      "password": "$2a$10$hqnhpANJLgi89AT4AtIQaen0gfe6wzy69EQ2.OOR2ZvBZ9I3JB0vy",
       "role": "admin",
-      "createdAt": "2025-11-23T18:48:26.338Z"
+      "createdAt": "2025-12-07T07:43:08.924Z"
     },
     {
-      "id": "83671070-98f8-450c-878b-845a6d5f8eb1",
+      "id": "70150bc1-4fd4-4a98-8433-f5685a56874e",
       "name": "Josue",
       "lastName": "Torres",
       "birthDate": "2004-04-29",
-      "email": "josuetorresmariluz@gmail.com",
-      "password": "$2b$10$X8Os1ofS472XYSUIkRIP8usLCKQlTOYjGLhw2P5cSGQLo4YtcM2Ce",
+      "email": "josue@gmail.com",
+      "password": "$2a$10$4fKFPDApzeSd7HM2X0WOpu7QO7BMGNQEM3wu3nOuUK1dzN1.a.pdm",
       "role": "user",
-      "createdAt": "2025-11-23T19:42:37.196Z"
-    },
-    {
-      "id": "21f2177d-cf12-40c4-9a68-0ce3159ef821",
-      "name": "Josue",
-      "lastName": "Torres",
-      "birthDate": "2025-11-02",
-      "email": "correosjemplo@gmail.com",
-      "password": "$2b$10$6Hg146UX8m9w3vc4KUXleez.uYCjGzoAfQZVFa0DLzD2HZMBTCApK",
-      "role": "user",
-      "createdAt": "2025-11-23T20:23:37.315Z"
-    },
-    {
-      "id": "c6bd2bd1-755c-465c-a1e2-19a4a559d454",
-      "name": "elagu",
-      "lastName": "agu",
-      "birthDate": "2000-12-23",
-      "email": "rodirigo78@gmail.com",
-      "password": "$2b$10$eCy1rd6zTdamJ2VcCWoQGOabvwev0Q.o0D6pxNXnT8pWN50fBdI7C",
-      "role": "user",
-      "createdAt": "2025-11-23T20:24:42.170Z"
+      "createdAt": "2025-12-07T08:13:49.236Z"
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "createdAt": "2025-12-07T07:45:42.784Z",
+      "title": "ProArt P16",
+      "price": 12000,
+      "stock": 1,
+      "categories": [
+        "Laptop",
+        "Gamer",
+        "Diseño Gráfico",
+        "Nuevo"
+      ],
+      "featured": true,
+      "summary": "Ideal para profesionales exigentes, gamers y creadores de contenido que buscan máximo rendimiento y calidad visual superior. Perfecta para tareas de diseño, edición de video, juegos de última generación y trabajo multitarea avanzado.",
+      "description": "Esta laptop cuenta con el potente procesador AMD Ryzen AI 9-HX 370 y una impresionante pantalla OLED 16\" WQUXGA, ofreciendo imágenes nítidas y colores vibrantes. Equipada con 32GB de RAM LPDDR5, almacenamiento SSD de 2TB y la tarjeta gráfica NVIDIA GeForce RTX 5070 de 8GB, garantiza velocidad, fluidez y capacidad para las aplicaciones más demandantes. Incluye Windows 11 Home, teclado RGB y mouse pad de regalo, ideal para quienes buscan una experiencia premium tanto en productividad como en entretenimiento.",
+      "specs": {
+        "Procesador": "AMD RYZEN AI 9-HX 370",
+        "Pantalla": "16\" OLED WQUXGA(3840 x 2400) 100 % DCI-P3",
+        "RAM": "32GB LPDDDR5",
+        "Almacenamiento": "2TB SSD",
+        "Gráficos": "NVIDIA GEFORCE RTX5070-8GB",
+        "SO": "WINDOWS 11 HOME",
+        "Peso": "1.85kg",
+        "Batería": "4 CELL"
+      },
+      "thumb": "/uploads/8b7dcc6ba6c777e5a48f2b08e4552294",
+      "id": "prod-58004c7b",
+      "updatedAt": "2025-12-07T08:11:53.307Z"
+    }
+  ],
   "orders": []
 }
