@@ -24,12 +24,11 @@
       "createdAt": "2025-12-07T07:45:42.784Z",
       "title": "ProArt P16",
       "price": 12000,
-      "stock": 1,
+      "stock": 2,
       "categories": [
         "Laptop",
         "Gamer",
-        "Diseño Gráfico",
-        "Nuevo"
+        "Diseño Gráfico"
       ],
       "featured": true,
       "summary": "Ideal para profesionales exigentes, gamers y creadores de contenido que buscan máximo rendimiento y calidad visual superior. Perfecta para tareas de diseño, edición de video, juegos de última generación y trabajo multitarea avanzado.",
@@ -44,9 +43,44 @@
         "Peso": "1.85kg",
         "Batería": "4 CELL"
       },
-      "thumb": "/uploads/49fa0a13b6e09d62b1f8a2c22bd45435",
+      "thumb": "/uploads/227c6d8c1f59697077cee774b3f71349",
       "id": "prod-58004c7b",
-      "updatedAt": "2025-12-07T17:42:35.382Z"
+      "updatedAt": "2025-12-11T07:54:47.842Z",
+      "outOfStock": false,
+      "condition": "nuevo"
+    },
+    {
+      "createdAt": "2025-12-11T07:27:14.780Z",
+      "title": "asda",
+      "price": 2129,
+      "stock": 20,
+      "categories": [
+        "Laptop"
+      ],
+      "featured": true,
+      "summary": "",
+      "description": "",
+      "specs": {},
+      "thumb": "",
+      "condition": "nuevo",
+      "id": "prod-cf4d661e",
+      "updatedAt": "2025-12-11T07:27:30.272Z"
+    },
+    {
+      "createdAt": "2025-12-11T23:56:08.578Z",
+      "title": "Implesola 300",
+      "price": 1959,
+      "stock": 10,
+      "categories": [
+        "Impresora"
+      ],
+      "featured": true,
+      "summary": "",
+      "description": "",
+      "specs": {},
+      "thumb": "",
+      "condition": "nuevo",
+      "id": "prod-e827403f"
     }
   ],
   "orders": []
