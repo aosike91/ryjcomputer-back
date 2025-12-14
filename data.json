@@ -24,7 +24,7 @@
       "createdAt": "2025-12-07T07:45:42.784Z",
       "title": "ProArt P16",
       "price": 12000,
-      "stock": 2,
+      "stock": 1,
       "categories": [
         "Laptop",
         "Gamer",
@@ -43,9 +43,9 @@
         "Peso": "1.85kg",
         "Batería": "4 CELL"
       },
-      "thumb": "/uploads/227c6d8c1f59697077cee774b3f71349",
+      "thumb": "/uploads/d589582f23657cc28aff80da20dc9b30",
       "id": "prod-58004c7b",
-      "updatedAt": "2025-12-11T07:54:47.842Z",
+      "updatedAt": "2025-12-14T21:48:13.016Z",
       "outOfStock": false,
       "condition": "nuevo"
     },
